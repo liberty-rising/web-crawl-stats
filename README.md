@@ -24,3 +24,5 @@ The robots.txt ([https://en.wikipedia.org/wiki/Robots_exclusion_standard](https:
 User-agent: Googlebot
 Disallow: /images
 ```
+
+The output data file will be in the `data/statistics/` directory.
